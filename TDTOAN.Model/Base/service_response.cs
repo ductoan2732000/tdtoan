@@ -9,7 +9,9 @@ namespace TDTOAN.Model.Base
     {
         public bool Success { get; set; } = true;
         public Object Data { get; set; } = null;
+
         public string msg { get; set; } = "";
+
         public SubCode SubCode { get; set; } = SubCode.Success;
     }
     
