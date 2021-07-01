@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace northwind_product.API
+namespace order.API
 {
     public class Program
     {
